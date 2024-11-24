@@ -11,3 +11,12 @@
 - [Для изучения CSS стилей](https://html5book.ru/css-css3/)
 
 - [Хороший крус на ютуб про вестку сайтов](https://www.youtube.com/watch?v=ltMSrSis9ww&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW)
+
+- [Ссылка для получения бесплатной лицензии Webstorm](https://www.jetbrains.com/shop/eform/students)
+
+Добавьте стили JS и CSS:
+
+```js
+<link rel="stylesheet" href="./style.css" /> // css қосу
+<script src="./app.js"></script> // js кодың косу үшін
+```
