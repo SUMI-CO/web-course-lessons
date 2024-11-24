@@ -17,6 +17,6 @@
 Добавьте стили JS и CSS:
 
 ```js
-<link rel="stylesheet" href="./style.css" /> // css қосу
-<script src="./app.js"></script> // js кодың косу үшін
+<link rel="stylesheet" href="./style.css" /> <!-- CSS -->
+<script src="./app.js"></script> <!-- JAVASCRIPT -->
 ```
